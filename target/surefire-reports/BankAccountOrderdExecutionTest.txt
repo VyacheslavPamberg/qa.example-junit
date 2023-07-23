@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: BankAccountOrderdExecutionTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in BankAccountOrderdExecutionTest
+BankAccountOrderdExecutionTest.testWithdraw()  Time elapsed: 0 s  <<< FAILURE!
+java.lang.RuntimeException
+	at BankAccount.withdraw(BankAccount.java:27)
+	at BankAccountOrderdExecutionTest.testWithdraw(BankAccountOrderdExecutionTest.java:15)
+

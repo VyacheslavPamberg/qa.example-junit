@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="BankAccountParallelExecutionTest" time="0" tests="0" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1251"/>
+    <property name="java.class.path" value="C:\Users\Viacheslav\Desktop\api-testing\qa.example-junit\target\test-classes;C:\Users\Viacheslav\Desktop\api-testing\qa.example-junit\target\classes;C:\Users\Viacheslav\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.3\junit-jupiter-api-5.9.3.jar;C:\Users\Viacheslav\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Viacheslav\.m2\repository\org\junit\platform\junit-platform-commons\1.9.3\junit-platform-commons-1.9.3.jar;C:\Users\Viacheslav\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Viacheslav\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.9.3\junit-jupiter-params-5.9.3.jar;"/>
+    <property name="java.vm.vendor" value="Temurin"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://adoptium.net/"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="user.country.format" value="US"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="RU"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-8.0.345.1-hotspot\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\VIACHE~1\AppData\Local\Temp\surefire7964834871846056760\surefirebooter8699833444568486372.jar C:\Users\Viacheslav\AppData\Local\Temp\surefire7964834871846056760 2023-06-28T22-30-34_214-jvmRun1 surefire8070539892802416902tmp surefire_07301992753601096863tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\Viacheslav\Desktop\api-testing\qa.example-junit\target\test-classes;C:\Users\Viacheslav\Desktop\api-testing\qa.example-junit\target\classes;C:\Users\Viacheslav\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.3\junit-jupiter-api-5.9.3.jar;C:\Users\Viacheslav\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Viacheslav\.m2\repository\org\junit\platform\junit-platform-commons\1.9.3\junit-platform-commons-1.9.3.jar;C:\Users\Viacheslav\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Viacheslav\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.9.3\junit-jupiter-params-5.9.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Viacheslav"/>
+    <property name="user.language" value="ru"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Program Files\Eclipse Adoptium\jdk-8.0.345.1-hotspot\jre"/>
+    <property name="basedir" value="C:\Users\Viacheslav\Desktop\api-testing\qa.example-junit"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\VIACHE~1\AppData\Local\Temp\surefire7964834871846056760\surefirebooter8699833444568486372.jar"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Eclipse Adoptium\jdk-8.0.345.1-hotspot\jre\lib\resources.jar;C:\Program Files\Eclipse Adoptium\jdk-8.0.345.1-hotspot\jre\lib\rt.jar;C:\Program Files\Eclipse Adoptium\jdk-8.0.345.1-hotspot\jre\lib\sunrsasign.jar;C:\Program Files\Eclipse Adoptium\jdk-8.0.345.1-hotspot\jre\lib\jsse.jar;C:\Program Files\Eclipse Adoptium\jdk-8.0.345.1-hotspot\jre\lib\jce.jar;C:\Program Files\Eclipse Adoptium\jdk-8.0.345.1-hotspot\jre\lib\charsets.jar;C:\Program Files\Eclipse Adoptium\jdk-8.0.345.1-hotspot\jre\lib\jfr.jar;C:\Program Files\Eclipse Adoptium\jdk-8.0.345.1-hotspot\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_345-b01"/>
+    <property name="user.name" value="Viacheslav"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Eclipse Adoptium\jdk-8.0.345.1-hotspot\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1251"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\Viacheslav\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\VIACHE~1\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_345"/>
+    <property name="user.dir" value="C:\Users\Viacheslav\Desktop\api-testing\qa.example-junit"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="user.language.format" value="en"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-8.0.345.1-hotspot\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Eclipse Adoptium\jdk-8.0.345.1-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\apache-maven\bin;C:\Program Files\Eclipse Adoptium\jdk-8.0.345.1-hotspot;C:\users\SYSTEM\AppData\Local\Android\sdk\extras\intel\Hardware_Accelerated_Execution_Manager\;C:\Users\Viacheslav\AppData\Local\Android\Sdk\platform-tools;C:\Users\Viacheslav\AppData\Local\Android\Sdk\tools;C:\Program Files\nodejs\;C:\Users\Viacheslav\AppData\Local\Microsoft\WindowsApps;C:\Users\Viacheslav\AppData\Local\Programs\Microsoft VS Code\bin;C:\apache-maven\bin;C:\Program Files\Eclipse Adoptium\jdk-8.0.345.1-hotspot;C:\Users\Viacheslav\AppData\Roaming\npm;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Temurin"/>
+    <property name="java.vm.version" value="25.345-b01"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Eclipse Adoptium\jdk-8.0.345.1-hotspot\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+</testsuite>
